@@ -1,3 +1,4 @@
 # dummyRepo
 Dummy repo
-Creating branches
+Creating branches master
+changes of branch1
